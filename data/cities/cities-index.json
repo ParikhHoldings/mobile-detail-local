@@ -1,0 +1,122 @@
+[
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "slug": "philadelphia",
+    "stateAbbr": "PA"
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "slug": "phoenix",
+    "stateAbbr": "AZ"
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "slug": "columbus",
+    "stateAbbr": "OH"
+  },
+  {
+    "city": "Indianapolis",
+    "state": "IN",
+    "slug": "indianapolis",
+    "stateAbbr": "IN"
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "slug": "los-angeles",
+    "stateAbbr": "CA"
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "slug": "charlotte",
+    "stateAbbr": "NC"
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "slug": "new-york",
+    "stateAbbr": "NY"
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "slug": "denver",
+    "stateAbbr": "CO"
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "slug": "san-jose",
+    "stateAbbr": "CA"
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "slug": "san-francisco",
+    "stateAbbr": "CA"
+  },
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "slug": "jacksonville",
+    "stateAbbr": "FL"
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "slug": "houston",
+    "stateAbbr": "TX"
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "slug": "austin",
+    "stateAbbr": "TX"
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "slug": "san-diego",
+    "stateAbbr": "CA"
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "slug": "san-antonio",
+    "stateAbbr": "TX"
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "slug": "chicago",
+    "stateAbbr": "IL"
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "slug": "seattle",
+    "stateAbbr": "WA"
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "slug": "washington",
+    "stateAbbr": "DC"
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "slug": "dallas",
+    "stateAbbr": "TX"
+  },
+  {
+    "city": "Fort Worth",
+    "state": "TX",
+    "slug": "fort-worth",
+    "stateAbbr": "TX"
+  }
+]

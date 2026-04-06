@@ -1,0 +1,41 @@
+{
+  "city": "San Antonio",
+  "state": "TX",
+  "slug": "san-antonio",
+  "title": "Mobile Detailing in San Antonio, TX | Professional Car Care at Your Door",
+  "description": "Top-rated mobile detailing services in San Antonio. We come to you! Interior detailing, paint correction, ceramic coating, and more. Serving San Antonio and surrounding areas.",
+  "services": [
+    "Full Interior Detail",
+    "Exterior Hand Wash & Wax",
+    "Paint Correction & Ceramic Coating",
+    "Engine Bay Cleaning",
+    "Headlight Restoration",
+    "Odor Removal & Sanitization",
+    "Leather Conditioning",
+    "Pet Hair Removal Specialist",
+    "Clay Bar Treatment",
+    "Wheels & Tires Deep Clean"
+  ],
+  "price_estimate": "$150 - $450",
+  "turnaround_time": "2-4 hours",
+  "why_us": [
+    "We Come to You: At home, work, or the gym.",
+    "Professional Equipment: Industrial steam cleaners, high-end vacuums, and eco-friendly soaps.",
+    "Certified Detailers: Experienced professionals who treat your car like their own.",
+    "Hassle-Free Booking: Fast, easy, and transparent pricing."
+  ],
+  "faqs": [
+    {
+      "question": "How long does a full detail take in San Antonio?",
+      "answer": "A standard full interior and exterior detail usually takes between 3 to 5 hours, depending on the size and condition of the vehicle."
+    },
+    {
+      "question": "Do you need access to water or electricity?",
+      "answer": "Most of our mobile units are fully self-contained with their own water tanks and generators, but we'll confirm this when you book!"
+    },
+    {
+      "question": "Do you offer ceramic coating?",
+      "answer": "Yes, we provide professional ceramic coating services in San Antonio to protect your car's paint for years to come."
+    }
+  ]
+}

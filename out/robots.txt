@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://appliance-repair-local.vercel.app/sitemap.xml
